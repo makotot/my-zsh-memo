@@ -5,3 +5,4 @@
 - [Zshでデキるプロンプト](http://www.slideshare.net/tetutaro/zsh-20923001)
 - [sindresorhus/pure](https://github.com/sindresorhus/pure)
 - [Oh My Zsh](http://ohmyz.sh/)
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
